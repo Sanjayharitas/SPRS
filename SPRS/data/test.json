@@ -1,0 +1,144 @@
+{
+    "Sheet1": [
+        {
+            "Drive Module": "ACS880-207-5130A-7",
+            "Cont.kW": "6070",
+            "Frame": "10×R8i",
+            "HD Current": "4653",
+            "contactor": "ACB 6300"
+        },
+        {
+            "Drive Module": "ACS880-207-4100A-7",
+            "Cont.kW": "4856",
+            "Frame": "8×R8i",
+            "HD Current": "3722",
+            "contactor": "ACB 5000"
+        },
+        {
+            "Drive Module": "ACS880-207-3080A-7",
+            "Cont.kW": "3642",
+            "Frame": "6×R8i",
+            "HD Current": "2792",
+            "contactor": "ACB 3200"
+        },
+        {
+            "Drive Module": "ACS880-207-2070A-7",
+            "Cont.kW": "2449",
+            "Frame": "4×R8i",
+            "HD Current": "1877",
+            "contactor": "ACB 2500"
+        },
+        {
+            "Drive Module": "ACS880-207-1570A-7",
+            "Cont.kW": "1853",
+            "Frame": "3×R8i",
+            "HD Current": "1420",
+            "contactor": "ACB 1600"
+        },
+        {
+            "Drive Module": "ACS880-207-1050A-7",
+            "Cont.kW": "1246",
+            "Frame": "2×R8i",
+            "HD Current": "955",
+            "contactor": "ACB 1250"
+        },
+        {
+            "Drive Module": "ACS880-207-0720A-7",
+            "Cont.kW": "852",
+            "Frame": "2×R8i",
+            "HD Current": "653",
+            "contactor": "ACB 800"
+        },
+        {
+            "Drive Module": "ACS880-207-0540A-7",
+            "Cont.kW": "639",
+            "Frame": "R8i",
+            "HD Current": "490",
+            "contactor": "ACB 800"
+        },
+        {
+            "Drive Module": "ACS880-207-0370A-7",
+            "Cont.kW": "437",
+            "Frame": "R8i",
+            "HD Current": "335",
+            "contactor": "ACB 800"
+        },
+        {
+            "Drive Module": "ACS880-207-0310A-7",
+            "Cont.kW": "362",
+            "Frame": "R8i",
+            "HD Current": "278",
+            "contactor": "OT 315 + AF370"
+        },
+        {
+            "Drive Module": "ACS880-207-4620A-3",
+            "Cont.kW": "3167",
+            "Frame": "6×R8i",
+            "HD Current": "4187",
+            "contactor": "ACB 5000"
+        },
+        {
+            "Drive Module": "ACS880-207-3110A-3",
+            "Cont.kW": "2130",
+            "Frame": "4×R8i",
+            "HD Current": "2816",
+            "contactor": "ACB 3200"
+        },
+        {
+            "Drive Module": "ACS880-207-2350A-3",
+            "Cont.kW": "1611",
+            "Frame": "3×R8i",
+            "HD Current": "2130",
+            "contactor": "ACB 2500"
+        },
+        {
+            "Drive Module": "ACS880-207-1580A-3",
+            "Cont.kW": "1086",
+            "Frame": "2×R8i",
+            "HD Current": "1437",
+            "contactor": "ACB 1600"
+        },
+        {
+            "Drive Module": "ACS880-207-1330A-3",
+            "Cont.kW": "914",
+            "Frame": "2×R8i",
+            "HD Current": "1208",
+            "contactor": "ACB 1600"
+        },
+        {
+            "Drive Module": "ACS880-207-1130A-3",
+            "Cont.kW": "772",
+            "Frame": "2×R8i",
+            "HD Current": "1020",
+            "contactor": "ACB 1250"
+        },
+        {
+            "Drive Module": "ACS880-207-0810A-3",
+            "Cont.kW": "556",
+            "Frame": "R8i",
+            "HD Current": "735",
+            "contactor": "ACB 1000"
+        },
+        {
+            "Drive Module": "ACS880-207-0580A-3",
+            "Cont.kW": "395",
+            "Frame": "R8i",
+            "HD Current": "522",
+            "contactor": "ACB 800"
+        },
+        {
+            "Drive Module": "ACS880-207-0420A-3",
+            "Cont.kW": "290",
+            "Frame": "R8i",
+            "HD Current": "384",
+            "contactor": "ACB 800"
+        },
+        {
+            "Drive Module": "ACS880-207-0210A-3",
+            "Cont.kW": "144",
+            "Frame": "R6i",
+            "HD Current": "190",
+            "contactor": "OT 250 + AF205"
+        }
+    ]
+}
