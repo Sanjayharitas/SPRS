@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css.css">
+	<title>ACS880 SPRS Sizing Tool</title>
+</head>
+<body>
+	<div class="box">
+		<header><h1>ACS880 SPRS Sizing Tool</h1></header>
+		<form action="sizing_result.html" target="_blank" class="container" method="GET">
+			<table>
+				<tr><td>Name:</td><td class="allign"><input type="text" id="name"></td>
+					<td>Project:</td><td><input type="text"name=" id="project"s></td>
+				</tr>
+				<tr><td>Contact:</td><td class="allign"><input type="text" id="Contact"></td>
+					<td>Channel:</td>
+					<td class="allign"><select >
+						<option>SINT-System Integrator</option>
+						<option>POEM-Project OEM</option>
+						<option>SOEM-Serial OEM</option>
+						<option>DSAL-Direct Sales</option>
+						<option>TDIS-Technical Distributor</option>
+					</select><br>
+				</td>
+			</tr>
+			<tr><td>Email:</td><td class="allign"><input type="mail" id="email"></td>
+				<td> Industry:</td>
+				<td class="allign"><select >
+					<option>CEM</option>
+					<option>MET</option>
+					<option>HVAC</option>
+					<option>PHA</option>
+					<option>CRA</option>
+					<option>MAH</option>
+					<option>TXE</option>
+					<option>RUBPLA</option>
+					<option>FOO</option>
+					<option>SUG</option>
+					<option>POW</option>
+					<option>AUT</option>
+					<option>WAT</option>
+					<option>PAP</option>
+					<option>MUL</option>
+				</select><br></td>
+			</tr>
+			<tr><td> Phone:</td><td class="allign"><input type="number" id="phone"></td>
+				<td>  Application:</td>
+				<td class="allign"><select >
+					<option>FAN</option>
+					<option>KILN</option>
+					<option>CRUSHER</option>
+					<option>PUMP</option>
+					<option>EXTRUDER</option>
+				</select><br>
+			</td>
+		</tr>
+	</table> 
+	<h3>Please Enter the Below data</h3> 
+	<table class="table">
+		<tr>
+			<td><lable>Motor KW</lable></td><td class="allign"><input type="number" id="kw"> <td>KW</td></td>
+		</tr>
+		<tr>
+			<td><lable>Rotor Voltage</lable></td><td class="allign"><input type="number" id="V"> <td>V</td></td>
+		</tr>
+		<tr>
+			<td><lable>Rotor Current</lable></td><td class="allign"><input type="number" id="A"><td>A</td></td>
+		</tr>
+		<tr>
+			<td><lable>Stator Current(If Available)</lable></td><td class="allign"><input type="number" id="Am"><td>A</td></td>
+		</tr>
+		<tr>
+			<td><lable>Stator voltage</lable></td><td class="allign"><input type="number" id="Vm"><td>V</td></td>
+		</tr>
+		<tr>
+			<td><lable>Desired Speed Range(In %)</lable></td><td class="allign"><input type="number" id="P"></td><td>% to </td><td><input type="number" id="Pm"><td>%</td></td>
+		</tr>
+		<tr>
+			<td><lable>Transformer Secondary Voltage</lable></td><td class="allign"><input type="number" name="jj"id="Vn"><td>V</td></td>
+		</tr>
+	</table><br>
+	<input type="submit" value="Print Calculation">
+</form>
+</div>
+</body>
+</html>
